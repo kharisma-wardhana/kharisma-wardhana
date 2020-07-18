@@ -1,4 +1,7 @@
 ### Hi there 👋
+I'm a Mobile and Web Enthusiast. </br>
+🌱 I’m currently learning flutter and WebAR </br>
+📫 How to reach me: dev.kharis29@gmail.com
 
 <!--
 **kharisma-wardhana/kharisma-wardhana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
