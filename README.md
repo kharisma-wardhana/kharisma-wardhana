@@ -1,7 +1,7 @@
 ## Hi there 👋
 I'm a Mobile and Web Enthusiast. </br>
 🌱 I’m currently learning flutter and WebAR </br>
-📫 How to reach me: dev.kharis29@gmail.com<br/>
+📫 How to reach me: dev.kharis29@gmail.com <br/>
 
 ### Languages and Tools : 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" style="max-width:100%;">
@@ -15,7 +15,7 @@ I'm a Mobile and Web Enthusiast. </br>
 <br/><hr/>
 
 ### Github Stats
-<img align="left" alt="kharisma-wardhana's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kharisma-wardhana&show_icons=true&hide_border=true">
+<img align="left" alt="kharisma-wardhana's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kharisma-wardhana&show_icons=true&hide_border=true&theme=dark">
 
 <!--
 **kharisma-wardhana/kharisma-wardhana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
