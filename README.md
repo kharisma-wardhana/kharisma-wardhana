@@ -1,4 +1,5 @@
 ## Hi there 👋
+I'm [Kharisma Wardhana](https://id.linkedin.com/in/kharisma-wardhana-762b63a8), but you can call me **kharis or ris**. 
 I'm a Mobile and Web Enthusiast. </br>
 🌱 I’m currently learning flutter and WebAR </br>
 📫 How to reach me: dev.kharis29@gmail.com <br/>
@@ -15,8 +16,12 @@ I'm a Mobile and Web Enthusiast. </br>
 <br/><hr/>
 
 ### Github Stats
-<img align="left" alt="kharisma-wardhana's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kharisma-wardhana&show_icons=true&hide_border=true&theme=dark">
+<div>
+    <img align="left" alt="kharisma-wardhana's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kharisma-wardhana&show_icons=true&hide_border=true&theme=dark&count_private=true&include_all_commits=true">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kharisma-wardhana&layout=compact" />
+</div>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=kharisma-wardhana)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
 **kharisma-wardhana/kharisma-wardhana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
