@@ -1,8 +1,8 @@
 ## Hi there 👋
-I'm [Kharisma Wardhana](https://id.linkedin.com/in/kharisma-wardhana-762b63a8), but you can call me **kharis or ris**. 
-I'm a Mobile and Web Enthusiast. </br>
+I'm [Kharisma Wardhana](https://id.linkedin.com/in/kharisma-wardhana-762b63a8), but you can call me **kharis or ris**. </br>
+🔭 I'm a Mobile and Web Enthusiast. </br>
 🌱 I’m currently learning flutter and WebAR </br>
-📫 How to reach me: dev.kharis29@gmail.com <br/>
+📫 How to reach me: dev.kharis29@gmail.com </br>
 
 ### Languages and Tools : 
 <code><img alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
@@ -17,7 +17,7 @@ I'm a Mobile and Web Enthusiast. </br>
 <code><img alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 <code><img alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
-<br/><hr/>
+</br><hr/>
 
 ### Github Stats
 <div>
@@ -25,7 +25,7 @@ I'm a Mobile and Web Enthusiast. </br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kharisma-wardhana&layout=compact" />
 </div>
 
-<br/><hr/>
+</br><hr/>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=kharisma-wardhana)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
