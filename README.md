@@ -21,6 +21,8 @@ I'm a Mobile and Web Enthusiast. </br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kharisma-wardhana&layout=compact" />
 </div>
 
+<br/><hr/>
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=kharisma-wardhana)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
 **kharisma-wardhana/kharisma-wardhana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
