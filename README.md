@@ -3,7 +3,7 @@ I'm [Kharisma Wardhana](https://id.linkedin.com/in/kharisma-wardhana-762b63a8), 
 🔭 I'm a Mobile and Web Enthusiast. </br>
 🌱 I’m currently learn Frontend Tech and WebAR </br>
 📫 How to reach me: dev.kharis29@gmail.com </br>
-⚡ https://www.kharis.dev/
+⚡ https://id.linkedin.com/in/kharisma-wardhana-762b63a8
 
 ### Languages and Tools : 
 <code><img alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
