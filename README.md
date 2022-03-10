@@ -1,7 +1,7 @@
 ## Hi there 👋
 I'm [Kharisma Wardhana](https://id.linkedin.com/in/kharisma-wardhana-762b63a8), but you can call me **kharis**. </br>
 🔭 I'm a Mobile and Web Enthusiast. </br>
-🌱 I’m currently learn Frontend Tech and WebAR </br>
+🌱 I’m currently learn Fullstack Tech and WebAR </br>
 📫 How to reach me: dev.kharis29@gmail.com </br>
 ⚡ https://id.linkedin.com/in/kharisma-wardhana-762b63a8
 
