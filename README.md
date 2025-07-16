@@ -18,6 +18,7 @@ I'm [Kharisma Wardhana](https://id.linkedin.com/in/kharisma-wardhana-762b63a8), 
 
 ### Github Stats
 <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kharisma-wardhana&layout=compact" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kharisma-wardhana&layout=compact&theme=dark" />
+    <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=kharisma-wardhana&theme=dark" alt="kharisma-wardhana" />
 </div>
 </br><hr/>
