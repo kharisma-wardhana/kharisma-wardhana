@@ -1,4 +1,4 @@
-# Kharisma Wardhana — Mobile & Web Engineer | AI/ML Enthusiast
+# Kharisma Wardhana — Software Engineer | AI/ML Enthusiast
 
 I build performant mobile apps and reliable backend APIs. I care about clean architecture, pragmatic testing, and smooth delivery. Currently expanding into ML/AI to add smart, production-ready features.
 
